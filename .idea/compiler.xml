@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="indexes_main" target="1.8" />
+      <module name="indexes_test" target="1.8" />
+      <module name="interval-_main" target="1.8" />
+      <module name="interval-_test" target="1.8" />
+      <module name="interval-i_main" target="1.8" />
+      <module name="interval-i_test" target="1.8" />
+      <module name="interval-index_main" target="1.8" />
+      <module name="interval-index_test" target="1.8" />
+      <module name="intervals_main" target="1.8" />
+      <module name="intervals_test" target="1.8" />
+      <module name="intervalsd_main" target="1.8" />
+      <module name="intervalsd_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
